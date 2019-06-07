@@ -5,8 +5,13 @@ public class Test01 {
 	
 	
 	public static void main(String[] args) {
-		System.out.println("ÎÒÊÇtest01Àà");
-		System.out.println("ÎÒÔÚeclipseÌí¼ÓÁËÊä³ö£¡");
+		
+		System.out.println("æˆ‘æ˜¯test01ç±»");
+		System.out.println("æˆ‘åœ¨eclipseæ·»åŠ äº†è¾“å‡ºï¼");
+		
+		System.out.println("è„¦è„ªè„¢è„Ÿtest01è„Œè„¿");
+		//é´æˆæ¹ªgithubæ¶“å©æ…¨é€é€›ç°¡test01ç»«ï¿½
+
 	}
 
 }
