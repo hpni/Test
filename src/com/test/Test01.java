@@ -10,7 +10,6 @@ public class Test01 {
 		System.out.println("我在eclipse添加了输出！");
 		System.out.println("我在github添加了输出！");
 		System.out.println("脦脪脢脟test01脌脿");
-		//鎴戝湪github涓婁慨鏀逛簡test01绫�
 
 	}
 
